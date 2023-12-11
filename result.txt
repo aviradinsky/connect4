@@ -1,0 +1,6 @@
+
+92/100 for 3 trials vs. heuristic
+100/100 for 3 trials vs. random
+
+I optimized by running on multiple threads.
+This wasn't strictly necessary as both runs were just under 10 minutes but I wanted to play it safe.
